@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+
+.Traveler{
+  background-color: lightblue;
+  width: 50%;
+  margin-left: 25%;
+  display: flex;
+}
+
+
+.Banner{
+  background-color: aqua;
+}
+
+.Share{
+  background-color: red;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.Payment{
+  border: 2px solid black;
+  outline: #000000 solid 1px;
+}
